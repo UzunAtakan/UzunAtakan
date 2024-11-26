@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Developer
 ---------
-
-Third-year software engineering student at Near East University.
-
 * 🌍  I'm based in Aydın, Türkiye
 * ✉️  You can contact me at [atakanuzun09@gmail.com](mailto:atakanuzun09@gmail.com)
 
